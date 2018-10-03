@@ -1,0 +1,22 @@
+{
+  "name": "print-booklet",
+  "version": "0.0.0",
+  "description": "Page printing sequence helper to print booklets.",
+  "homepage": "https://github.com/jankeromnes/booklet",
+  "bugs": {
+    "url": "https://github.com/jankeromnes/booklet/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Jan Keromnes",
+    "url": "http://jan.tools"
+  },
+  "main": "booklet.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jankeromnes/booklet"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
