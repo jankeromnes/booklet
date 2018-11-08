@@ -1,6 +1,6 @@
 {
   "name": "print-booklet",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Page printing sequence helper to print booklets.",
   "homepage": "https://github.com/jankeromnes/booklet",
   "bugs": {
